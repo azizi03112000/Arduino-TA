@@ -1,8 +1,8 @@
 # Arduino-TA
-Dokumentasi Tugas Akhir
-Judul : Prototype Mesin Tembakau Berbasis IOT
-Nama : Fadhilatul Azizi
-Nim : C2B019021
+Dokumentasi Tugas Akhir<br>
+Judul : Internet Of Things : Prototype Mesin Tembakau Berbasis Web Based<br>
+Nama : Fadhilatul Azizi<br>
+Nim : C2B019021<br>
 Fakultas : Teknik dan Ilmu Komputer, Universitas Muhammadiyah Semarang
 
 # Pemberitahuan 
